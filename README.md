@@ -36,6 +36,6 @@ This package depends on [pydensecrf](https://github.com/lucasb-eyer/pydensecrf),
 
 ## Notes on memory
 
-The model has be trained from scratch on a GTX1070M 8GB.
+The model has be trained from scratch on a GTX1070 8GB.
 Training with images of 896x768 and a batch size of 4 takes 6GB of memory.
 This assumes you use bilinear up-sampling, and not transposed convolution in the model.
