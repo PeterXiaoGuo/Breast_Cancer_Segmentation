@@ -1,4 +1,4 @@
-# Pytorch-UNet
+# Pytorch Breast Cancer Segmentation with U-Net
 
 Customized implementation of the [U-Net](https://arxiv.org/pdf/1505.04597.pdf) in Pytorch for Breast Cancer Segmentation (https://bioimage.ucsb.edu/research/bio-segmentation)
 
